@@ -1,3 +1,3 @@
 const { say } = require('shared')
 
-say('hi')
+say('hi hi')
